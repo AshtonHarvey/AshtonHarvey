@@ -1,4 +1,11 @@
-### Hi there 👋
+# Welcome! 😀
+Hi im Ashton and im looking to start a career in frontend development. 
+
+- 🔭 I’m currently working on freecodecamp projects with a twist! ⬇️
+- 🌱 I’m currently learning responsive webpages and tailwind css
+- ⚡ Fun fact: I use to study game programming with C# and Unity3D
+
+
 
 <!--
 **AshtonHarvey/AshtonHarvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
